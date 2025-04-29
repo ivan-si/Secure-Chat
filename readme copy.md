@@ -36,7 +36,7 @@ The system consists of several components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ivan-si/secure-chat.git
+git clone https://github.com/your-username/secure-chat.git
 cd secure-chat
 
 # Install Go dependencies
