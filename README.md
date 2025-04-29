@@ -36,7 +36,7 @@ The system consists of several components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ivan-si/secure-chat.git
+git clone https://github.com/ivan-si/Secure-Chat.git
 cd secure-chat
 
 # Install Go dependencies
@@ -120,8 +120,7 @@ secure-chat/
 │   ├── crypto/             # Cryptographic primitives
 │   ├── chat/               # Core messaging protocol
 │   └── api/                # API handlers
-├── web/                    # Frontend code
-└── scripts/                # Utility scripts
+└── web/                    # Frontend code
 ```
 
 ## 📝 License
@@ -131,4 +130,3 @@ This project is licensed under the terms specified in the [LICENSE](LICENSE) fil
 ## 🙏 Acknowledgments
 
 - This project was inspired by the Signal Protocol
-- Thanks to all contributors and testers
